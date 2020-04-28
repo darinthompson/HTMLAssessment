@@ -43,3 +43,7 @@ ul#teamRoster > li:last-child {
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/5/5c/Chicago_Bears_logo.svg);
     background-repeat: no-repeat;
 }
+
+ul#teamRoster img {
+    display: none;
+}
